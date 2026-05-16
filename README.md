@@ -1,7 +1,17 @@
 # Hi, I'm Mujaheed Ahmed 👋
 ### Embedded Systems & Firmware Engineer
 
-Passionate about bridging the gap between hardware and software. I specialize in developing efficient firmware, working with microcontrollers, and designing robust embedded solutions.
+Passionate about bridging the gap between hardware and software. I specialize in developing efficient firmware, working with microcontrollers, and designing robust embedded solutions. 
+
+---
+
+### 💼 Professional Experience
+
+**Graduate Engineer Trainee** | Energetic People Private Limited (MEIL Head Office)
+*June 2024 – November 2025*
+- Handled technical project assignments within engineering frameworks.
+- Worked with multi-disciplinary engineering documentation, workflows, and task modules.
+- Managed technical project documentation and hardware system tracking.
 
 ---
 
@@ -24,4 +34,5 @@ Passionate about bridging the gap between hardware and software. I specialize in
 
 ### 📫 Connect with Me
 
+- 💼 **LinkedIn:** [mujaheed-ahmed-009b37207](https://linkedin.com)
 - 📧 **Email:** mujaheed6362@gmail.com
