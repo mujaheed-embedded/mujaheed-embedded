@@ -1,7 +1,7 @@
 # Hi, I'm Mujaheed Ahmed 👋
-### Embedded Systems & Firmware Engineer
+### 🛠️ Embedded Systems & Firmware Engineer
 
-Passionate about bridging the gap between hardware and software. I specialize in developing efficient firmware, working with microcontrollers, and designing robust embedded solutions. 
+Passionate about bridging the gap between hardware and software. I specialize in developing efficient firmware, working with microcontrollers, and designing robust embedded solutions.
 
 ---
 
@@ -17,22 +17,33 @@ Passionate about bridging the gap between hardware and software. I specialize in
 
 ### 🛠️ Tech Stack & Skills
 
-- **Microcontrollers:** STM32, Arduino, ESP32, 8051, PIC
-- **Languages:** C, Embedded C, C++, Python
-- **Protocols:** I2C, SPI, UART, CAN, BLE
-- **Tools & IDEs:** STM32CubeIDE, Keil uVision, VS Code, Git
-- **Hardware Skills:** PCB Design, Oscilloscopes, Multimeters, Circuit Debugging
+⚡ **Languages & Frameworks**  
+![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io)
+
+📟 **Microcontrollers & Hardware**  
+![STM32](https://shields.io) ![Arduino](https://shields.io) ![Raspberry Pi](https://shields.io)
+
+📡 **Protocols & Developer Tools**  
+![Git](https://shields.io) ![Visual Studio Code](https://shields.io) ![Linux](https://shields.io)
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Ecosystem Insights
 
-![Mujaheed's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="center">
+  <img width="48%" src="https://vercel.app" alt="Mujaheed's GitHub Stats" />
+  <img width="48%" src="https://vercel.app" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [mujaheed-ahmed-009b37207](https://linkedin.com)
-- 📧 **Email:** mujaheed6362@gmail.com
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+<a href="mailto:mujaheed6362@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+</p>
