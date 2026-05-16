@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mujaheed Ahmed 👋
+### Embedded Systems & Firmware Engineer
 
-<!--
-**mujaheed-embedded/mujaheed-embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about bridging the gap between hardware and software. I specialize in developing efficient firmware, working with microcontrollers, and designing robust embedded solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Microcontrollers:** STM32, Arduino, ESP32, 8051, PIC
+- **Languages:** C, Embedded C, C++, Python
+- **Protocols:** I2C, SPI, UART, CAN, BLE
+- **Tools & IDEs:** STM32CubeIDE, Keil uVision, VS Code, Git
+- **Hardware Skills:** PCB Design, Oscilloscopes, Multimeters, Circuit Debugging
+
+---
+
+### 📈 GitHub Stats
+
+![Mujaheed's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** mujaheed6362@gmail.com
